@@ -44,3 +44,7 @@ trainer = RewardTrainer(
 )
 #Train
 trainer.train()
+# Save the model and tokenizer
+trainer.model.save_pretrained("./Reward-Model")
+tokenizer.save_pretrained("./Reward-Model")
+print("Model and tokenizer saved to ./Reward-Model")
