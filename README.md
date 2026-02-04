@@ -96,6 +96,9 @@ The model was evaluated using [RewardBench](https://github.com/allenai/reward-be
 | **Safety** | 72.2% |
 | **Reasoning** | 73.4% |
 
+<img width="1200" height="735" alt="image" src="https://github.com/user-attachments/assets/bd6cb251-b939-464a-a023-b047e08c910a" />
+
+
 
 ---
 
